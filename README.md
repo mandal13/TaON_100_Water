@@ -24,3 +24,5 @@ To use these files for your own simulations, ensure that you have CPMD installed
 
 ## References
 For more details on the methods and results, please refer to the paper: "Molecular Insights into the Water Dissociation and Proton Dynamics at the β-TaON (100)/Water Interface."
+
+https://doi.org/10.1039/D4CP01219D
