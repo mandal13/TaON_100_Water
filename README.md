@@ -1,7 +1,7 @@
 # TaON_100_Water
 
 ## Description
-This repository contains input files and the coordinate file (in XYZ format) for simulating the β-TaON (100)/Water system, as studied in the paper "Molecular Insights into the Water Dissociation and Proton Dynamics at the β-TaON (100)/Water Interface."
+This repository contains input files and the coordinate file (in XYZ format) for simulating the β-TaON (100)/Water system, as studied in the paper "Molecular Insights into the Water Dissociation and Proton Dynamics at the β-TaON (100)/Water Interface." https://doi.org/10.1039/D4CP01219D
 
 ## Files
 
