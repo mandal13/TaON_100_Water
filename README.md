@@ -28,6 +28,8 @@ This repository provides input files and coordinate files (in XYZ format) for si
 To use these files for your own simulations, ensure that you have CPMD installed and configured on your system. Place the input files and pseudopotential files in the appropriate directories and modify the input files as needed for your specific simulation requirements.
 
 ## References
-For more details on the methods and results, please refer to the paper: "Molecular Insights into the Water Dissociation and Proton Dynamics at the β-TaON (100)/Water Interface."
+For more details on the methods and results, please refer to the paper: 
 
-https://doi.org/10.1039/D4CP01219D
+📝 **"Molecular Insights into the Water Dissociation and Proton Dynamics at the β-TaON (100)/Water Interface."**  
+📖 *Phys. Chem. Chem. Phys.*, **2024**, *26*, 22173-22181  
+🔗 [DOI: 10.1039/D4CP01219D](https://doi.org/10.1039/D4CP01219D) 
